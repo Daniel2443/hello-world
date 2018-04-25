@@ -51,7 +51,7 @@ public class Main {
 		c.diff();
 		System.out.println();
 		c.eliminar(5);
-		System.out.println("dice que se elimino el 6 pero es porque copia ese valor en el nodo que contenia \n"
+		System.out.println("Dice que se elimino el 6 pero es porque copia ese valor en el nodo que contenia \n"
 				+ "el 5 y luego elimina el nodo hoja con el valor 6");
 		c.inOrder();
 		System.out.println();
