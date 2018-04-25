@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /**
  * 
- * @author luisk
+ * @author Daniel Acuña Mora, Luis Carlos Mora Fonseca, Greivin Salas 
  *
  */
 public class BinaryTree {

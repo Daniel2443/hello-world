@@ -3,7 +3,7 @@
  */
 
 /**
- * @author Daniel Acuña Mora
+ * @author Daniel Acuña Mora, Luis Carlos Mora Fonseca, Greivin Salas 
  *
  */
 public class Main {
